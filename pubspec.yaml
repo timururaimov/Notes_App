@@ -44,6 +44,12 @@ dependencies:
   lottie: ^3.1.0
   introduction_screen: ^3.1.12
   shared_preferences: ^2.2.2
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/note2.png" 
 
 dev_dependencies:
   flutter_test:
